@@ -1,30 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
-size: 16:9
-header: 'Python – Programmation, approche objet et bonnes pratiques'
-footer: 'S1 · Présentation du langage et installation'
-style: |
-  section { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 26px; color: #1f2933; padding: 50px 60px; }
-  h1 { color: #1f4e78; font-size: 44px; }
-  h2 { color: #1f4e78; font-size: 34px; border-bottom: 3px solid #f2b705; padding-bottom: 6px; }
-  code { background: #eef2f7; color: #b3261e; border-radius: 4px; padding: 0 4px; }
-  section pre { background: #f4f6f9 !important; border: 1px solid #d9e2ec; border-left: 5px solid #1f4e78; border-radius: 8px; font-size: 20px; }
-  section pre code { background: transparent !important; color: #1f2933 !important; }
-  table { font-size: 21px; }
-  th { background: #1f4e78; color: #fff; }
-  header, footer { color: #8a94a3; font-size: 14px; }
-  section.title { background: linear-gradient(135deg, #1f4e78 0%, #2f6f9f 100%); color: #fff; }
-  section.title h1, section.title h2 { color: #fff; border: none; }
-  section.lab { background: #fff8e1; }
-  section.lab h2 { border-color: #1f4e78; }
-  .small { font-size: 20px; color: #52606d; }
----
-
-<!-- _class: title -->
-<!-- _paginate: false -->
-<!-- _header: '' -->
 
 # Séance 1
 ## Présentation du langage + atelier d'installation
